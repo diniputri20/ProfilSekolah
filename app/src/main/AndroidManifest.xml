@@ -10,8 +10,38 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolah">
         <activity
+            android:name=".Buku9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumpmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumpramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumKegiatanHutri"
+            android:exported="false" />
+        <activity
+            android:name=".FutsalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".GaleriActivity"
             android:exported="false" />
@@ -39,7 +69,7 @@
         <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
-        <intent-filter>
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />

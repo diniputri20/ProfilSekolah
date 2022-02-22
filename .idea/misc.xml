@@ -5,17 +5,27 @@
       <map>
         <entry key="..\:/ProfilSekolah/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1685185185185185" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/drawable/vie_bg.xml" value="0.20307692307692307" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_album_kegiatan_hutri.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_albumpmr.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_albumpramuka.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_bebas.xml" value="0.20416666666666666" />
-        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_ekskul.xml" value="0.19947916666666668" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_buku7.xml" value="0.1" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_ekskul.xml" value="0.1" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_fasilitas.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_futsal.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_galeri.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_guru.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_gurudan_staf.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_latihan.xml" value="0.1" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_osis.xml" value="0.21" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_perpus.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_pmr.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_pramuka.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_profil.xml" value="0.15" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProfilSekolah/app/src/main/res/layout/slider_item.xml" value="0.20416666666666666" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1685185185185185" />
         <entry key="..\:/ProfilSekolah/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1140625" />
       </map>
