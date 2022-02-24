@@ -37,7 +37,7 @@ public class GaleriActivity extends AppCompatActivity {
     }
 
     public void albumhutri(View view) {
-        Intent intent = new Intent(GaleriActivity.this, AlbumpmrActivity.class);
+        Intent intent = new Intent(GaleriActivity.this, AlbumKegiatanHutri.class);
         startActivity(intent);
     }
 
