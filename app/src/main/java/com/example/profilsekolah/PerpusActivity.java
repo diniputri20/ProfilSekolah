@@ -21,7 +21,7 @@ public class PerpusActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ekskul);
+        setContentView(R.layout.activity_perpus);
 
         sliderView = findViewById(R.id.image_slider);
 
